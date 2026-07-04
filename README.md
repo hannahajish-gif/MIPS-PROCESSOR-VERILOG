@@ -81,17 +81,6 @@ Through this project, I gained practical experience with:
 
 ---
 
-## Future Improvements
-
-* Multi-Cycle MIPS Processor
-* Five-Stage Pipelined MIPS Processor
-* Hazard Detection Unit
-* Forwarding Unit
-* FPGA Hardware Implementation
-* Instruction Set Expansion
-
----
-
 ## Author
 
 **Hannah Ajish**
