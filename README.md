@@ -66,6 +66,12 @@ The processor was verified through behavioral simulation in Vivado using a custo
 
 Simulation screenshots are available in the `images` folder.
 
+![Instruction Fetch](Images/Instruction Fetch.jpg)
+![Execute Stage](Images/Execution Stage.jpg)
+![Memory and write back](Images/Memory and Write back)
+![Control Signals](Images/Control Signal.jpg)
+![Processor](Images/Complete Processor)
+
 ---
 
 ## Learning Outcomes
