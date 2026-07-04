@@ -56,7 +56,6 @@ src/            Verilog source files
 tb/             Testbench
 images/         RTL schematic and simulation waveforms
 README.md       Project documentation
-LICENSE         MIT License
 ```
 
 ---
